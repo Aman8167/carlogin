@@ -1,0 +1,16 @@
+.card-1{
+    background-color: skyblue;
+    width:70%;
+    margin:auto;
+    
+}
+.form-body{
+    height:100vh;
+    background-color:skyblue;
+}
+.container-fluid{
+    background-color: skyblue;
+}
+#btn{
+    margin-left:12%;
+}
